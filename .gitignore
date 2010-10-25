@@ -20,4 +20,4 @@ pkg
 .bundle
 
 ## PROJECT::SPECIFIC
-.bundle
+bundler/
